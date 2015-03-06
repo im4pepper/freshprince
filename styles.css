@@ -1,0 +1,25 @@
+h1 {
+	color: red;
+	text-align: left;
+	margin-left: 50px;
+}
+
+h2 {
+	color: #006699;
+	text-align: left;
+	margin-left: 25px;
+}
+
+p {
+	font-family: sans-serif;
+}
+
+li {
+	font-family: verdana;
+	font-style: italic;
+	margin-left: 35px;
+}
+
+body {
+	background-color: #cccccc;
+}
